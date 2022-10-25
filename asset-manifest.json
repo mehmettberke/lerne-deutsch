@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lerne-deutsch/static/css/main.d5a1b79c.css",
+    "main.js": "/lerne-deutsch/static/js/main.21bf4fa4.js",
+    "static/media/germany.png": "/lerne-deutsch/static/media/germany.91d0fedb7ac0a11f0942.png",
+    "index.html": "/lerne-deutsch/index.html",
+    "main.d5a1b79c.css.map": "/lerne-deutsch/static/css/main.d5a1b79c.css.map",
+    "main.21bf4fa4.js.map": "/lerne-deutsch/static/js/main.21bf4fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a1b79c.css",
+    "static/js/main.21bf4fa4.js"
+  ]
+}
